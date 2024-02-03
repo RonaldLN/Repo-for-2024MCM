@@ -1,0 +1,6 @@
+win_or_not: 选手这一局是否获胜
+p1_sets_leading_1: 归一化后的领先盘数
+p1_games_leading_1: 归一化后的领先局数
+p1_score_leading_1: 归一化后的领先球数
+1_serve: 选手1是否发球
+
