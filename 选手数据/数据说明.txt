@@ -3,4 +3,5 @@ p1_sets_leading_1: 归一化后的领先盘数
 p1_games_leading_1: 归一化后的领先局数
 p1_score_leading_1: 归一化后的领先球数
 1_serve: 选手1是否发球
+next_three: 未来三局结果的加权和，用于辅助势头的量化以及模型的学习
 
